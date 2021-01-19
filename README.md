@@ -1,4 +1,4 @@
-# Beginners Guidge-To Javascript Array
+# Beginners Guide To Javascript Array
 Instagram post on explaining the Javascript For Loop. 
 
 ## Table of contents
